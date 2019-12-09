@@ -1,0 +1,113 @@
+body{
+    background-color: #005152;
+    width: 1080px;
+    margin: 0 auto; 
+    
+}
+
+
+.containter {
+   width: 1080px;
+   margin: 0 auto; 
+}
+
+.box{
+	width:100px;
+	height:100px;
+}
+
+
+h1{
+     color: #8bcbcc;
+    font-family: sans-serif;
+     margin-left: 340px;
+    font-size: 45px;
+    position:absolute;
+    font-weight: 100;
+    margin-top: 60px;
+}
+
+
+h2{
+    color: #8bcbcc;
+    font-family: sans-serif;
+    margin-left: 375px;
+    font-size: 28px;
+    font-weight: 100;
+    position: relative;
+    top: 120px;
+
+}
+
+.wiki a {
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-left: 470px;
+    color:#8bcbcc;
+    text-shadow: 1px 1px 4px teal;
+    position:absolute;
+    margin-top: 140px;
+}
+
+.smallsite a {
+    font-size:25px;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 4px #EC9EFF;
+    color: whitesmoke;
+    margin-left: 485px;
+     margin-top: 420px;
+     position: absolute;
+}
+
+.wikitext{
+    width: 500px;
+    font-family: sans-serif;
+    color:#8bcbcc;
+    line-height: 30px;
+    font-size: 18px;
+    margin-left: 270px;
+    margin-top: 170px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 1px 1px 4px teal;
+
+
+}
+
+
+.smallsitetext{
+    width: 500px;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 4px #EC9EFF;
+    color: whitesmoke;
+    line-height: 30px;
+    font-size: 18px;
+    margin-left: 270px;
+    position: absolute;
+    margin-top:450px;
+    text-align: center;        
+    }
+
+
+
+.trees{
+    height: 250px;
+    margin-left: 90px;
+    margin-top:90px;
+    
+}
+
+.concert{
+    height: 250px;
+    margin-left: 90px;
+    margin-top:70px;
+    
+    
+}
+
+
+
+
+
+}
+/* /////////////// */
